@@ -19,3 +19,13 @@ puts floats
 booleans.pop
 puts booleans
 
+
+#Index Positions
+#An Index Position is a way to select a specific element within an array. 
+#Every index position starts with index position 0 as the first element and counts by increments of 1. 
+#Here is an example of index positions:
+
+#index_positions = [0,1,2,3,4,5,6]
+#example: names =["Scott", "Jill", "Brian"]
+#to access "Brian", I would use:
+#names[2] because Brian is in index position 2. 
