@@ -29,3 +29,10 @@ puts booleans
 #example: names =["Scott", "Jill", "Brian"]
 #to access "Brian", I would use:
 #names[2] because Brian is in index position 2. 
+
+
+#Additional Array Method: .index
+#.index is used to identify and return the index value of an element.
+#Example: array = ["a","b","c","d","e","f"]
+#array.index("c")
+#this would return the index position of "c" which is 2. 
